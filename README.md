@@ -1,17 +1,10 @@
-# TP9 - Formularios 
-### Vistas de REGISTRO
--------------------------------------------------------------------------
-#### mobile
-![Asi quedo](https://github.com/MaximilianoAlonso/TP9-ML-Formularios/blob/master/mobile-register.jpg)
+# TP10 - Organizando-Elementos 
+
+----------------------------------------------
+#### productos con :hover
+![Asi quedo](https://github.com/MaximilianoAlonso/TP10-ML-Organizando-Elementos/blob/master/desktop-prod.jpg)
 
 
-#### desktop
-![Asi quedo](https://github.com/MaximilianoAlonso/TP9-ML-Formularios/blob/master/desktop-register.jpg)
+#### footer con flex y hover en los "i"
+![Asi quedo](https://github.com/MaximilianoAlonso/TP10-ML-Organizando-Elementos/blob/master/desktop-footer.jpg)
 
-### vistas de LOGIN
-
-#### mobile
-![Asi quedo](https://github.com/MaximilianoAlonso/TP9-ML-Formularios/blob/master/mobile-login.jpg)
-
-#### desktop
-![Asi quedo](https://github.com/MaximilianoAlonso/TP9-ML-Formularios/blob/master/desktop-login.jpg)
