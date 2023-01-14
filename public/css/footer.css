@@ -1,0 +1,22 @@
+footer{
+
+    background-color: white;
+    margin: 10px auto;
+    padding-top: 50px;
+    width: 97vw;
+ 
+}
+footer section article{
+    text-align: center;
+    padding:  20px 50px 
+
+}
+.icon-footer{
+    font-size: 2em;
+    color: var(--colorCeleste);
+    margin-bottom: 10px;
+}
+
+.copyright{ 
+    text-align: center  ;
+    font-size: 13px;}
